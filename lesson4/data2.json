@@ -1,0 +1,13 @@
+{
+    "name": "Nurdin",
+    "age": 24,
+    "height": 183.5,
+    "isMarried": true,
+    "colors":[null, "red"],
+    "addres":{
+        "number":103,
+        "street":"Ismankulov"
+    }
+}
+
+
